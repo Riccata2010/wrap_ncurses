@@ -2,10 +2,10 @@
 "wrap_ncurses" is a small library written in C++ that takes advantage of the powerful "ncurses" (new curses) library for drawing simple graphical interfaces on
 terminal.
 
-This project was born only for hobbies without any particular claim. 
+This project was born only for hobby without any particular claim. 
 It is a simple study project.
 
-You can verify the correct presence of "ncurses" in your Linux by typing the
+You can check the actual presence of "ncurses" in your Linux by typing the
 command:
 
 
