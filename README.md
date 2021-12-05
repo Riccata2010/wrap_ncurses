@@ -66,7 +66,7 @@ To draw a gui on terminal wrap_ncurses needs some parameters:
         		WN_WINDOW(9, 1, 12, 60, 10, "2", true, 1, true,
         		{
             			WN_LABEL(10, 2, 3, 5, 1, "name: "),
-            			WN_TEXT (11, 8, 3, 5, 1, "surname: ", 3),
+            			WN_TEXT (11, 8, 3, 5, 1, "TEST", 3),
         		})
     		  });
           
@@ -86,4 +86,6 @@ For more details, look at the "examples" folder.
 
 
 ![image info](./imm_1.png)
+
+[login example]
 	
