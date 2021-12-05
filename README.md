@@ -1,6 +1,5 @@
 
-"wrap_ncurses" is a library written in C++ that takes advantage of the powerful
-"ncurses" (new curses) library for drawing simple graphical interfaces on
+"wrap_ncurses" is a small library written in C++ that takes advantage of the powerful "ncurses" (new curses) library for drawing simple graphical interfaces on
 terminal.
 
 This project was born only for hobbies without any particular claim. 
